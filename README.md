@@ -41,7 +41,7 @@ For tests:
 
 
 
-###Open Endpoints
+### Open Endpoints
 
 Endpoints for viewing and manipulating the Parking Lots and park cars.
 
